@@ -8,7 +8,7 @@
     <P192> firmware.ct.mitn.dod.ua </P192>
     <P2312> sip.ct.mitn.dod.ua </P2312>
     <P2412> sip.ct.mitn.dod.ua </P2412>
-    <p2512> sip.ct.mitn.dod.ua </P2512>
+    <P2512> sip.ct.mitn.dod.ua </P2512>
 
   </config>
 </gs_provision>
