@@ -2,7 +2,7 @@
 <!-- Grandstream XML Provisioning Configuration -->
 <gs_provision version="1">
   <config version="1">
-    <P212> 2 </212>
+    <P212> 2 </P212>
     <P237> cfg.ct.mitn.dod.ua </P237>
     <P6767> 2 </P6767>
     <P192> firmware.ct.mitn.dod.ua </P192>
