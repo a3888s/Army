@@ -1,0 +1,11 @@
+---
+
+services:
+  nginx:
+    image: nginx:latest
+    container_name: nginx-config-server
+    ports:
+      - "8080:80"  # HTTP порт доступу
+    volumes:
+      - ./configs:/usr/share/nginx/html:ro  # Папка з конфігураціями
+    restart: always
