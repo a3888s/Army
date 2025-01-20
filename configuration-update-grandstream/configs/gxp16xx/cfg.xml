@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Grandstream XML Provisioning Configuration -->
+<gs_provision version="1">
+  <config version="1">
+    <!-- Generated on Thu Jan 1 02:06:30 EET 1970 by GXP1628 [C0:74:AD:12:6E:5D] -->
+    <!-- boot 1.0.4.5; core 1.0.4.100; base 1.0.4.130; prog 1.0.4.138 -->
+    <P2312>sip6.example.com</P2312>
+
+  </config>
+</gs_provision>
