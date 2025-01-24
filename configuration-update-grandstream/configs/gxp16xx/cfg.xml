@@ -2,13 +2,10 @@
 <!-- Grandstream XML Provisioning Configuration -->
 <gs_provision version="1">
   <config version="1">
-    <P212> 2 </P212>
-    <P237> cfg.ct.mitn.dod.ua </P237>
-    <P6767> 2 </P6767>
-    <P192> firmware.ct.mitn.dod.ua </P192>
-    <P2312> sip.ct.mitn.dod.ua </P2312>
-    <P2412> sip.ct.mitn.dod.ua </P2412>
-    <P2512> sip.ct.mitn.dod.ua </P2512>
+    <!-- Generated on Thu Jan 1 02:06:30 EET 1970 by GXP1628 [C0:74:AD:12:6E:5D] -->
+    <!-- boot 1.0.4.5; core 1.0.4.100; base 1.0.4.130; prog 1.0.4.138 -->
+    <P2312>sip5.example.com</P2312>
+    <P47>sip2.example.com</P47>
 
   </config>
 </gs_provision>
